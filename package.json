@@ -1,0 +1,13 @@
+{
+  "name": "validatorutils",
+  "version": "1.5.1",
+  "description": "This project contains general validator and utility functions",
+  "main": "validator.js",
+  "scripts": {},
+  "keywords": [
+    "validator",
+    "utils"
+  ],
+  "author": "Aytaç GÜLEY - Cyprus",
+  "license": "ISC"
+}
